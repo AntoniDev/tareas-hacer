@@ -9,9 +9,9 @@ console.clear();
 const main = async() =>{
     console.log('Hola mundo');
 
-    do {
+    // do {
         mostrarMenu();
-    } while (opt !== 0);
+    // } while (opt !== 0);
    
 
     // pausa();
